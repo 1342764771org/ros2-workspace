@@ -1,0 +1,21 @@
+# Ignore build artifacts
+/build/
+/install/
+/log/
+/.rosproject
+
+# Ignore Python compiled files
+**/__pycache__/
+/*.pyc
+/*.pyo
+
+# Ignore temporary files
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Ignore user-specific files
+*.DS_Store
+*.idea/
+*.vscode/

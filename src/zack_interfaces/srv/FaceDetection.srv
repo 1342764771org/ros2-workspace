@@ -1,0 +1,7 @@
+# Request
+uint8[] image_data
+---
+# Response
+int32 face_count
+uint8[] annotated_image_data
+string error_message
